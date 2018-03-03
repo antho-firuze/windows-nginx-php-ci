@@ -26,6 +26,10 @@ stop.bat
 
 Alhamdulillah sudah selesai. Terima kasih.
 
+Note
+---
+- NGINX tersebut diatas sudah menerapkan PHP FastCGI, yang mana kalian bisa mengatur Instance Children dan Maximum Request per Children sesuai dengan kemampuan server kalian.
+
 Contact
 ---
 - Jika ada pertanyaan, kontak saya melalui [Facebook](https://www.facebook.com/antho.firuze)
