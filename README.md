@@ -32,4 +32,4 @@ Note
 
 Contact
 ---
-- Jika ada pertanyaan, kontak saya melalui [Facebook](https://www.facebook.com/antho.firuze)
+- Jika ada pertanyaan, kontak saya melalui [Facebook](https://www.facebook.com/antho.firuze) ~ [Email](mailto:antho.firuze@gmail.com)
